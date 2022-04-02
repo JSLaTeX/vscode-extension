@@ -1,0 +1,11 @@
+{
+	"extends": "./tsconfig.json",
+	"include": [
+		".eslintrc.cjs",
+		"client",
+		"shared",
+		"syntax",
+		"scripts",
+		"vite.config.ts"
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"name": "jslatex-extension-client",
+	"type": "module",
+	"main": "./src/extension.ts"
+}
