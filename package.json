@@ -78,6 +78,7 @@
 		"tc": "tsc --noEmit"
 	},
 	"devDependencies": {
+		"@leonzalion/configs": "^1.2.3",
 		"@types/inquirer": "^8.2.0",
 		"@types/vscode": "^1.62.0",
 		"chalk": "^5.0.1",
