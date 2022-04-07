@@ -79,21 +79,21 @@
 	},
 	"devDependencies": {
 		"@leonzalion/configs": "^1.2.5",
-		"@types/inquirer": "^8.2.0",
-		"@types/vscode": "^1.62.0",
+		"@types/inquirer": "^8.2.1",
+		"@types/vscode": "^1.66.0",
 		"chalk": "^5.0.1",
 		"dot-prop": "^7.2.0",
-		"inquirer": "^8.2.1",
+		"inquirer": "^8.2.2",
 		"inquirer-press-to-continue": "^1.0.8",
 		"outdent": "^0.8.0",
 		"typescript": "^4.6.3",
-		"vite": "^2.8.6",
+		"vite": "^2.9.1",
 		"vsce": "^2.7.0",
 		"vscode-ejs": "^0.0.6"
 	},
 	"dependencies": {
 		"escape-string-regexp": "^5.0.0",
-		"vscode-languageclient": "^6.1.3",
-		"vscode-languageserver": "^6.1.1"
+		"vscode-languageclient": "^7.0.0",
+		"vscode-languageserver": "^7.0.0"
 	}
 }
