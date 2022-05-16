@@ -72,19 +72,16 @@
 		"release": "node-ts ./scripts/release.ts",
 		"build": "vite build --mode=development",
 		"build:release": "vite build",
-		"build:syntax": "node-ts ./scripts/build-syntax.ts",
-		"prettier": "prettier --write .",
-		"lint": "eslint --cache --fix .",
-		"tc": "tsc --noEmit"
+		"build:syntax": "node-ts ./scripts/build-syntax.ts"
 	},
 	"devDependencies": {
-		"@leonzalion/configs": "^1.2.5",
 		"@types/inquirer": "^8.2.1",
 		"@types/vscode": "^1.66.0",
 		"chalk": "^5.0.1",
 		"dot-prop": "^7.2.0",
 		"inquirer": "^8.2.2",
 		"inquirer-press-to-continue": "^1.0.8",
+		"lionconfig": "^1.6.25",
 		"outdent": "^0.8.0",
 		"typescript": "^4.6.3",
 		"vite": "^2.9.1",
